@@ -14,14 +14,14 @@ The Retentions Manager has provided some information in the resources.
 
 ## Key Points from the Data
 
-1. Customers at Risk: There are 1,869 customers identified as at risk. This is a critical metric that needs to be monitored closely.
-2. Tech and Admin Tickets: There are 2,173 tech tickets and 885 admin tickets. High numbers of tickets could indicate customer dissatisfaction, which is a potential churn indicator.
-3. Gender distribution is almost equal (49.8% female).
-4. 25% are senior citizens, 36% have partners, and 17% have dependents. These segments may have specific needs and retention strategies.
-5. The distribution of subscription times shows a significant portion of customers have been with the company for less than a year. Newer customers might be more prone to churn.
-6. 16% use electronic checks, 14% mailed checks, 12% bank transfers, and the rest credit cards. Payment issues can be a churn factor.
-7. 74.91% use paperless billing. This could be a factor in customer satisfaction and retention.
-8. 9% are on month-to-month contracts, which are more flexible and might indicate higher churn risk.
-9. 3% are on two-year contracts, which are more stable.
-10. 91% have phone service, 44% have streaming TV and movies. Lower percentages for services like online security (16%) and tech support (17%) might indicate areas for improvement.
+- Customers at Risk: There are 1,869 customers identified as at risk. This is a critical metric that needs to be monitored closely.
+- Tech and Admin Tickets: There are 2,173 tech tickets and 885 admin tickets. High numbers of tickets could indicate customer dissatisfaction, which is a potential churn indicator.
+- Gender distribution is almost equal (49.8% female).
+- 5% are senior citizens, 36% have partners, and 17% have dependents. These segments may have specific needs and retention strategies.
+- The distribution of subscription times shows a significant portion of customers have been with the company for less than a year. Newer customers might be more prone to churn.
+- 16% use electronic checks, 14% mailed checks, 12% bank transfers, and the rest credit cards. Payment issues can be a churn factor.
+- 74.91% use paperless billing. This could be a factor in customer satisfaction and retention.
+- 9% are on month-to-month contracts, which are more flexible and might indicate higher churn risk.
+- 3% are on two-year contracts, which are more stable.
+- 91% have phone service, 44% have streaming TV and movies. Lower percentages for services like online security (16%) and tech support (17%) might indicate areas for improvement.
 ![Screenshot 2025-03-02 171900](https://github.com/user-attachments/assets/dbd8732c-9338-4250-80d3-2c8fee6cb69f)
