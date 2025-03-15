@@ -12,6 +12,7 @@ We  have done customer analysis with Excel: it has always ended in a dead-end
 We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information in the resources.
 
+## My pipeline
 ![_- visual selection](https://github.com/user-attachments/assets/fe9b675b-4038-4623-b2a4-bea234a9a438)
 
 ## Key Points from the Data for Churn
